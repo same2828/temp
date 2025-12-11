@@ -136,8 +136,9 @@ Presented
 
 ## Technical Craft & Execution
 
-- This pillar is about the quality of your engineering work.
-- Think about: designing scalable systems, writing robust code, and demonstrating deep technical knowledge.
+- Overview
+  - The quality of your engineering work.
+  - Designing scalable systems, writing robust code, and demonstrating deep technical knowledge.
 - L2
   - Think about a time you had to understand how your code changes would interact with adjacent components, or when you effectively used debugging tools to resolve bugs.
 - L3
@@ -163,6 +164,9 @@ Examples of times when I had solved solved a non-trivial technical challenge
 
 ## Project Delivery & Ownership:
 
+- Overview
+  - Taking full ownership of work from idea to completion.
+  - Taking ownership, clarifying ambiguity, managing risks, and delivering valuable outcomes.
 - L2
   - Think about a feature request you broke down into actionable steps, or a time you identified the root cause of an issue, not just the symptoms.
 - L3
@@ -180,8 +184,9 @@ A significant component or feature set you took ownership of from design to depl
 
 ## Collaboration & Communication
 
-- This pillar is about your impact on others.
-- Think about: mentoring, code reviews, documentation, and working effectively with non-technical stakeholders.
+- Overview
+  - Your impact on others.
+  - Mentoring, code reviews, documentation, and working effectively with non-technical stakeholders.
 - L2
   - Collaboration & Communication: Think about how you contributed to the team's code quality through thoughtful code reviews and well-tested solutions.
 - L3
@@ -200,8 +205,9 @@ A significant component or feature set you took ownership of from design to depl
 
 ## Strategic Impact & Growth
 
-- This pillar is about thinking bigger than your immediate task.
-- Think about: driving long-term improvements, reducing tech debt, and connecting your work to business goals.
+- Overview
+  - Thinking bigger than your immediate task.
+  - Driving long-term improvements, reducing tech debt, and connecting your work to business goals.
 - L2
   - Think about how you have consistently demonstrated a growth mindset, perhaps by proactively looking for bigger challenges.
 - L3
