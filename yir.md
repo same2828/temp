@@ -2,9 +2,9 @@
 
 ## What did you achieve?
 
-- **Summarise your performance relative to the objectives or outcomes you have achieved this financial year. **
-- **You need to reference all four Macquarie Objectives. **
-- **The Macquarie Objectives are: **
+- **Summarise your performance relative to the objectives or outcomes you have achieved this financial year.**
+- **You need to reference all four Macquarie Objectives.**
+- **The Macquarie Objectives are:**
   - **Professional Conduct, DEI, People Leadership (if applicable)**
   - **Business Leadership (including Customer and Community Outcomes)**
   - **Risk Management and Compliance**
@@ -34,11 +34,11 @@ Financial/Business Results
 
 ## How did you demonstrate cultural/behavioural expectations?
 
-- **Summarise how you demonstrated the principles of the Macquarie Code of Conduct and the three Macquarie Standards in the performance and delivery of your objectives. **
-- **The Macquarie Standards are: **
+- **Summarise how you demonstrated the principles of the Macquarie Code of Conduct and the three Macquarie Standards in the performance and delivery of your objectives.**
+- **The Macquarie Standards are:**
   - **Deliver our Purpose**
   - **Develop Myself and Others**
-  - **Manage Risk. **
+  - **Manage Risk.**
 - **The Macquarie Code of Conduct are: Opportunity, Accountability, Integrity (Our Code of Conduct sets out our purpose, our principles and guides us on how we are expected to behave. It equips us to manage risks, make good decisions, speak up with our ideas and concerns, listen to others, be effective supervisors and understand our policy requirements.)**
 
 Deliver our Purpose: I take accountability for my work by delivering and achieving results on time. I proactively reach out to key stakeholders both internally within my team and externally outside my team whenever I need clarification or assistance. I build trust with team members through my high levels of communication and transparency. I consider both the near and long-term impacts of my work by making high quality contributions and writing detailed documentation.
@@ -178,7 +178,7 @@ A significant component or feature set you took ownership of from design to depl
 - The creation of IncomeVerificationApi alerts based on OTEL Trace Spans allowed the uplift of Slack alert messages to provide useful and actionable information such as: what, why, error type, trace-id and dynamic urls that open to the Sumologic trace span page through the implementation of custom key value pairs on each error span.
 - The IncomeVerificationApi dashboards that captures key metrics such as: number and Percentage of Request Timeouts to GenAi, p50/p90/p99 percentiles of Documatic response time, Async Response Ratios has been integral in capturing how key integration points especially those with Documatic perform during performance testing and has helped to identify latency issues and incidents related to Documatic
 
-Collaboration & Communication
+## Collaboration & Communication
 
 - This pillar is about your impact on others.
 - Think about: mentoring, code reviews, documentation, and working effectively with non-technical stakeholders.
@@ -198,7 +198,7 @@ Collaboration & Communication
     - GA Decommission Steps
 - Gave a presentation on “Using OTEL Trance Spans in our alerts” at DLO Engineering Team Meeting
 
-Strategic Impact & Growth
+## Strategic Impact & Growth
 
 - This pillar is about thinking bigger than your immediate task.
 - Think about: driving long-term improvements, reducing tech debt, and connecting your work to business goals.
